@@ -2,3 +2,6 @@
 # These are the names of the folders in OF_ROOT/addons
 
 ofxOpenCv
+ofxUGen
+ofxBox2d
+ofxContourAnalysis
